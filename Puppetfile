@@ -32,4 +32,20 @@ github "stdlib",     "4.0.2", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 
 # Optional/custom modules. There are tons available at
-# https://github.com/boxen.
+# https://github.com/puppet-*.
+### business
+github "skype",          "1.0.0"
+github "osx",            "1.0.0"
+### util
+github "iterm2",         "1.0.0"
+github "quicksilver",    "1.0.0"
+github "virtualbox",     "1.0.0"
+### browser
+github "chrome",         "1.0.0"
+github "firefox",        "1.0.0"
+### development
+github "php",            "1.0.0"
+github "sublime_text_2", "1.0.0"
+github "mou",            "1.0.0"
+github "vim",            "1.0.0"
+github "zsh", "1.0.0"
