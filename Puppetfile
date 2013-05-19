@@ -34,12 +34,12 @@ github "sudo",       "1.0.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/puppet-*.
 ### business
-github "skype",          "1.0.0"
+github "skype",          "2.0.5"
 github "osx",            "1.0.0"
 ### util
 github "iterm2",         "1.0.0"
 github "quicksilver",    "1.0.0"
-github "virtualbox",     "1.0.0"
+github "virtualbox",     "4.2.1"
 ### browser
 github "chrome",         "1.0.0"
 github "firefox",        "1.0.0"
